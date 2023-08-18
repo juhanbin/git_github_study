@@ -63,6 +63,6 @@ int main()
 
 <naver.com>
 
-[네이버](naver.com)
+[네이버](https://naver.com)
 
-[네이버](naver.com, "네이버로 이동합니다")
+[네이버](https://naver.com, "네이버로 이동합니다")
